@@ -1,8 +1,11 @@
 # TerrARA: Automated Security Threat Modeling for Infrastructure as Code
 TerrARA, a framework that (1) automates the construction of Data Flow Diagrams (DFDs) from Terraform IaC configuration files, (2) enriches these models with relevant annotations regarding the used cloud infrastructure, and (3) implements cloud computing threat patterns and leverages the SPARTA threat modeling engine to automatically identify these threats in the extracted models.
 
-## Sample architecture:
-![](./architecture/oveview.png)
+## Architecture
+![](./architecture/overview.png)
+
+## Graph Changes Illustration
+![](./architecture/illustration.png)
 
 ## Usage
 ### Docker install
